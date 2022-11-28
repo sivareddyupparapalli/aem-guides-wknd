@@ -15,6 +15,7 @@
  */
 package com.adobe.aem.guides.core.models;
 
+//this is comment
 import static org.apache.sling.api.resource.ResourceResolver.PROPERTY_RESOURCE_TYPE;
 
 import javax.annotation.PostConstruct;
